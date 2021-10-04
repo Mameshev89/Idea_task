@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        String number = "6011107531762524574";
+        String number = "345306357684450";
         System.out.println(String.format("Result is %s", isValidCardNumber(number) ? "OK" : "FAIL"));
     }
     public static boolean isValidCardNumber(String number) {
